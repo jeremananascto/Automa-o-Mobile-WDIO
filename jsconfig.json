@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "types": [
+            "node",
+            "webdriverio/async",
+            "@wdio/mocha-framework"
+        ],
+        "module": "commonjs"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
