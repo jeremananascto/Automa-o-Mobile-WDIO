@@ -46,7 +46,7 @@ Nexus 6 - Android 10 (para testes paralelos)
 
 📥 Clonar o repositório:
 
-git clone https://github.com/*********/WebdriverIOAppiumMochaJS.git
+git clone https:https://github.com/jeremananascto/Automa-o-Mobile-WDIO
 cd WebdriverIOAppiumMochaJS
 
 📦 Instalar dependências:
